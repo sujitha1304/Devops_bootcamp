@@ -8,3 +8,6 @@ git push origen main
 git commit -m "mesage"
 git checkout -b userstory1234
 git branch
+git branch -d branch name
+git checkout branchname
+
