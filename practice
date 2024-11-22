@@ -12,3 +12,5 @@ git log
 git checkout -b branchname 
 git push origin 
 git pull origin branchname
+git merge -x theirs branchname
+git status
