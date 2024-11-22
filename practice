@@ -4,3 +4,5 @@ git config --list | grep core editor
 git reset
 git pull
 git restore
+git push origen main
+git commit -m "mesage"
