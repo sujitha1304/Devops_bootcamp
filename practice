@@ -1,0 +1,6 @@
+Git commands
+git config --colour/username/mail
+git config --list | grep core editor
+git reset
+git pull
+git restore
