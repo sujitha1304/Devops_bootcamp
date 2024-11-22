@@ -9,5 +9,6 @@ git commit -m "mesage"
 git checkout -b userstory1234
 git branch
 git log
-git checkout -b 
-git push
+git checkout -b branchname 
+git push origin 
+git pull origin branchname
